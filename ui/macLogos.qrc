@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="Products" >
+    <file>images/default.png</file>
+    <file>images/coke.png</file>
+    <file>images/drpepper.png</file>
+    <file>images/sprite.png</file>
+    <file>images/sunkist.png</file>
+    <file>images/jolt.png</file>
+    <file>images/joneschoice.png</file>
+  </qresource>
+  <qresource prefix="Login" >
+    <file>images/lock.png</file>
+  </qresource>
+  <qresource prefix="Icons" >
+    <file>images/soda_16_bw.png</file>
+  </qresource>
+</RCC>
